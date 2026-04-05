@@ -2,7 +2,7 @@
 
 **`aprendendo`**
 
-Me chama Matheus Teixeira, tenho 20 anos e sou de Brasilia. Conclui meu ensino médio no IFB, com o curso tecnico em eletrônica. Atualmente estou cursando Ciência da Computação na UDF.
+Me chamo Matheus Teixeira, tenho 20 anos e sou de Brasília. Conclui meu ensino médio no IFB, com o curso tecnico em eletrônica. Atualmente estou cursando Ciência da Computação na UDF.
 
 ---
 
